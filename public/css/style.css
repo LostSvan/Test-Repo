@@ -1,0 +1,19 @@
+.border-all {
+    border: 2px solid #000;
+}
+
+.border-bottom-custom {
+    border-bottom: 2px solid #000;
+}
+
+.border-top-custom {
+    border-top: 2px solid #000;
+}
+
+.border-left-custom {
+    border-left: 2px solid #000;
+}
+
+.border-right-custom {
+    border-right: 2px solid #000;
+}
